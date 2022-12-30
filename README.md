@@ -8,7 +8,9 @@ The vehicles  of  Astro and  his allien  friend , which  were travelling  in spa
 ## Game Screen
 
 <img src="./ReadMeAssets/resim1.png" alt="racegif" width="50%" />
+
 <img src="./ReadMeAssets/3.png" alt="racegif" width="50%" />
+
 <img src="./ReadMeAssets/2.png" alt="racegif" width="50%"/>
 
 ## Play Demo and Installation
