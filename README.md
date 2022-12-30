@@ -14,6 +14,7 @@ The vehicles  of  Astro and  his allien  friend , which  were travelling  in spa
 ## Play Demo and Installation
 https://melih-kir.itch.io/space-y-astros-road
 
+# CONTROLS
 ESC : Menu
 
 W : Jump 
