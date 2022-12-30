@@ -1,5 +1,5 @@
 # HUJAM-22
-SPACE Y : ASTRO'S ROAD
+# SPACE Y : ASTRO'S ROAD
 <img src="./ReadMeAssets/banner.png" width="100%"/>
 This game was made for HUJAM '22 in 72 hours.
 
