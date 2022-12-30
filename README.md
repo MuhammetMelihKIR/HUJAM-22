@@ -23,11 +23,13 @@ D : move right
 
 A : Move left
 
+E : Interaction with portals and doors
+
 SPACE : Switching between characters 
 
 Mouse Left Button : Shoot
 
-E : Interaction with portals and doors
+
 
 # ASSETS
 Player : https://assetstore.unity.com/packages/2d/characters/free-pixel-space-platform-pa...
