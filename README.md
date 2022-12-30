@@ -6,11 +6,13 @@ This game was made for HUJAM '22 in 72 hours.
 The vehicles  of  Astro and  his allien  friend , which  were travelling  in spacecraft , were broken.Gather the  necessary materials  now and  help fix it!
 
 ## Game Screen
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
+
 
 <img src="./ReadMeAssets/resim1.png" alt="racegif" width="50%" />
 
+
 <img src="./ReadMeAssets/3.png" alt="racegif" width="50%" />
+
 
 <img src="./ReadMeAssets/2.png" alt="racegif" width="50%"/>
 
