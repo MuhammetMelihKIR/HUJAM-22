@@ -25,19 +25,20 @@ Mouse Left Button : Shoot
 
 E : Interaction with portals and doors
 
-ASSETS
+# ASSETS
 Player : https://assetstore.unity.com/packages/2d/characters/free-pixel-space-platform-pa...
 
 GameBackground : https://www.freepik.com/free-vector/mars-landscape-alien-planet-martian-backgrou...
 
 MainMenu Background :https://www.freepik.com/free-vector/gradient-galaxy-with-stars-background_156951...
 
-SFX
+# SFX
 Shoot : https://www.kenney.nl/assets/interface-sounds
 
 Jump and game music :https://mixkit.co/free-sound-effects/game/
 
-CREDITS
+# CREDITS
+
 Berna GÜNEY : https://itch.io/profile/bernagny
 
 https://www.linkedin.com/in/berna-guney-0382a2180/
