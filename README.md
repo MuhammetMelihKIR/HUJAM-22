@@ -11,6 +11,9 @@ The vehicles  of  Astro and  his allien  friend , which  were travelling  in spa
 <img src="./ReadMeAssets/3.png" alt="racegif" width="50%" />
 <img src="./ReadMeAssets/2.png" alt="racegif" width="50%"/>
 
+## Play Demo and Installation
+https://melih-kir.itch.io/space-y-astros-road
+
 ESC : Menu
 
 W : Jump 
