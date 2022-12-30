@@ -2,13 +2,13 @@
 SPACE Y : ASTRO'S ROAD
 
 # SPACE Y : ASTRO'S ROAD
-
+<img src="./ReadMeAssets/banner.png" width="100%"/>
 This game was made for HUJAM '22 in 72 hours.
 
 The vehicles  of  Astro and  his allien  friend , which  were travelling  in spacecraft , were broken.Gather the  necessary materials  now and  help fix it!
 
 ## Game Screen
-<img src="./ReadMeAssets/banner.png" width="100%"/>
+
 <img src="./ReadMeAssets/resim1.png" alt="racegif" width="24%" />
 <img src="./ReadMeAssets/3.png" alt="racegif" width="24%" />
 <img src="./ReadMeAssets/2.png" alt="racegif" width="24%"/>
